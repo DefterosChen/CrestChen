@@ -26,5 +26,5 @@ public class FadeSlideTransformer implements ViewPager.PageTransformer {
             page.setAlpha(1.0F - Math.abs(position));
         }
     }
-    
+
 }
