@@ -27,7 +27,6 @@ public abstract class BaseAnimator {
             mAnimatorSet.setStartDelay(mDelay);
         }
 
-
         if (mListener != null) {
             mAnimatorSet.addListener(new Animator.AnimatorListener() {
                 @Override
