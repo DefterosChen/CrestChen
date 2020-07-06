@@ -22,8 +22,7 @@ public abstract class BaseAnimator {
         if (mInterpolator != null) {
             mAnimatorSet.setInterpolator(mInterpolator);
         }
-
-
+        
         if (mDelay > 0) {
             mAnimatorSet.setStartDelay(mDelay);
         }
