@@ -47,8 +47,7 @@ public abstract class BaseIndicatorBanner<E, T extends BaseIndicatorBanner<E, T>
     private Class<? extends BaseAnimator> mUnselectAnimClass;
 
     private LinearLayout mLlIndicators;
-
-
+    
     public BaseIndicatorBanner(Context context) {
         super(context);
         initAttrs(context, null);
