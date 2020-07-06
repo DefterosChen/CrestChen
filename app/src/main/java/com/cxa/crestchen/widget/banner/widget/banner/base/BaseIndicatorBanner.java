@@ -13,6 +13,7 @@ import android.view.animation.Interpolator;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 
+import com.cxa.crestchen.R;
 import com.cxa.crestchen.widget.banner.anim.BaseAnimator;
 import com.xuexiang.xui.R;
 import com.xuexiang.xui.widget.banner.anim.BaseAnimator;
