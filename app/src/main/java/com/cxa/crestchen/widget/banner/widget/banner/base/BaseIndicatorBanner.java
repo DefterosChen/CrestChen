@@ -13,6 +13,7 @@ import android.view.animation.Interpolator;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 
+import com.cxa.crestchen.widget.banner.anim.BaseAnimator;
 import com.xuexiang.xui.R;
 import com.xuexiang.xui.widget.banner.anim.BaseAnimator;
 
@@ -45,7 +46,7 @@ public abstract class BaseIndicatorBanner<E, T extends BaseIndicatorBanner<E, T>
     private Class<? extends BaseAnimator> mUnselectAnimClass;
 
     private LinearLayout mLlIndicators;
-    
+
 
     public BaseIndicatorBanner(Context context) {
         super(context);
