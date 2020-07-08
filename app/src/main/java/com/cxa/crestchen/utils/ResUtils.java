@@ -54,6 +54,7 @@ public final class ResUtils {
         return getResources().getString(resId);
     }
 
+    
     /**
      * 获取资源图片
      *
