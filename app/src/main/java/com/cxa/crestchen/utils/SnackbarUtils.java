@@ -106,7 +106,7 @@ public class SnackbarUtils {
     public static void setColorDanger(int colorDanger) {
         SnackbarUtils.sColorDanger = colorDanger;
     }
-    
+
     /**
      * 获取 mSnackbar
      *
