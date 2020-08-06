@@ -14,8 +14,7 @@ public final class DensityUtils {
     private DensityUtils() {
         throw new UnsupportedOperationException("u can't instantiate me...");
     }
-
-
+    
     /**
      * DisplayMetrics
      *
