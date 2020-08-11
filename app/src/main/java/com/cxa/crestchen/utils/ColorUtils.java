@@ -123,7 +123,7 @@ public final class ColorUtils {
         return lighter(color, 0.8F);
     }
 
-    
+
     /**
      * 变浅颜色
      *
