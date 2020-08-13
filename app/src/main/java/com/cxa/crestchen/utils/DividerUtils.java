@@ -67,7 +67,6 @@ public final class DividerUtils {
         final int right = child.getRight() + params.rightMargin + drawable.getIntrinsicWidth();
         final int top = child.getBottom() + params.bottomMargin;
         final int bottom = top + drawable.getIntrinsicHeight();
-
         drawable.setBounds(left, top, right, bottom);
         drawable.draw(canvas);
     }
