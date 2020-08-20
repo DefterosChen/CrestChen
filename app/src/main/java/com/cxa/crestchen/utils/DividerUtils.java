@@ -108,7 +108,7 @@ public final class DividerUtils {
         drawable.setBounds(left, top, right, bottom);
         drawable.draw(canvas);
     }
-
+    
     /**
      * 将分割线画在view的顶部，与view左右对齐，考虑margin值
      *
