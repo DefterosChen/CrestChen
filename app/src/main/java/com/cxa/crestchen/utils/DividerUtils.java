@@ -29,7 +29,7 @@ import android.view.ViewGroup;
  * @since 2020/5/2 11:06 AM
  */
 public final class DividerUtils {
-    
+
     private DividerUtils() {
         throw new UnsupportedOperationException("u can't instantiate me...");
     }
