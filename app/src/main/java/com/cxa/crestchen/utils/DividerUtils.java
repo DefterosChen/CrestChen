@@ -62,7 +62,6 @@ public final class DividerUtils {
      * @param params   布局参数
      */
     public static void drawBottom(Canvas canvas, Drawable drawable, View child, ViewGroup.MarginLayoutParams params) {
-
         final int left = child.getLeft() - params.leftMargin - drawable.getIntrinsicWidth();
         final int right = child.getRight() + params.rightMargin + drawable.getIntrinsicWidth();
         final int top = child.getBottom() + params.bottomMargin;
