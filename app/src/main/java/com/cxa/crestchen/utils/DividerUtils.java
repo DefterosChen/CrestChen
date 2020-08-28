@@ -52,7 +52,7 @@ public final class DividerUtils {
         drawable.setBounds(left, top, right, bottom);
         drawable.draw(canvas);
     }
-    
+
 
     /**
      * 将分割线画在view的底部，并且左右会多出分割线的宽度
