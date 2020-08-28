@@ -74,7 +74,7 @@ public final class Utils {
     public static int getScreenHeight(Context context) {
         return context.getResources().getDisplayMetrics().heightPixels;
     }
-    
+
 
     private static final String STATUS_BAR_HEIGHT_RES_NAME = "status_bar_height";
 
