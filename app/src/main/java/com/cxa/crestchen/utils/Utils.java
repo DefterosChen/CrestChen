@@ -87,6 +87,7 @@ public final class Utils {
         return getInternalDimensionSize(Resources.getSystem(),
                 STATUS_BAR_HEIGHT_RES_NAME);
     }
+    
 
     private static int getInternalDimensionSize(Resources res, String key) {
         int result = 0;
