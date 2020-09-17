@@ -75,7 +75,6 @@ public final class Utils {
         return context.getResources().getDisplayMetrics().heightPixels;
     }
 
-
     private static final String STATUS_BAR_HEIGHT_RES_NAME = "status_bar_height";
 
     /**
