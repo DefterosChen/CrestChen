@@ -87,7 +87,6 @@ public final class Utils {
                 STATUS_BAR_HEIGHT_RES_NAME);
     }
 
-
     private static int getInternalDimensionSize(Resources res, String key) {
         int result = 0;
         int resourceId = res.getIdentifier(key, "dimen", "android");
