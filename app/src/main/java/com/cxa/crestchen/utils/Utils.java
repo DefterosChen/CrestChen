@@ -61,7 +61,7 @@ public final class Utils {
         throw new UnsupportedOperationException("u can't instantiate me...");
     }
 
-    
+
     /**
      * 得到设备屏幕的宽度
      */
