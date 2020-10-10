@@ -34,6 +34,7 @@ public final class DividerUtils {
         throw new UnsupportedOperationException("u can't instantiate me...");
     }
 
+    
     /**
      * 将分割线画在view的顶部，并且左右会多出分割线的宽度
      *
