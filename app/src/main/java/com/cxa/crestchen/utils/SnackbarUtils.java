@@ -203,7 +203,7 @@ public class SnackbarUtils {
         return this;
     }
 
-    
+
     /**
      * 设置mSnackbar背景色为  sColorConfirm
      */
