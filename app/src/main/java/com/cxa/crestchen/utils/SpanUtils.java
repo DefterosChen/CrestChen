@@ -80,6 +80,7 @@ public final class SpanUtils {
     @Retention(RetentionPolicy.SOURCE)
     public @interface Align {
     }
+    
 
     private static final String LINE_SEPARATOR = System.getProperty("line.separator");
 
