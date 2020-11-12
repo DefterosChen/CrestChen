@@ -44,7 +44,7 @@ public class DeviceUtils {
     private static final String BRAND = Build.BRAND.toLowerCase();
 
 
-    
+
     private DeviceUtils() {
         throw new UnsupportedOperationException("u can't instantiate me...");
     }
