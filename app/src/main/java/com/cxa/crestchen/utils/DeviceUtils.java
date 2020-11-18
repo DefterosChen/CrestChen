@@ -80,8 +80,7 @@ public class DeviceUtils {
         return (context.getResources().getConfiguration().screenLayout & Configuration.SCREENLAYOUT_SIZE_MASK) >=
                 Configuration.SCREENLAYOUT_SIZE_LARGE;
     }
-
-
+    
     /**
      * 判断是否为平板设备
      */
