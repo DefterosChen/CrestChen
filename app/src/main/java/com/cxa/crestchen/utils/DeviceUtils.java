@@ -81,6 +81,7 @@ public class DeviceUtils {
                 Configuration.SCREENLAYOUT_SIZE_LARGE;
     }
 
+    
     /**
      * 判断是否为平板设备
      */
