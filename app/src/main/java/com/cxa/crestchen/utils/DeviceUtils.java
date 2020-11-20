@@ -43,6 +43,7 @@ public class DeviceUtils {
     private static boolean sIsTabletValue = false;
     private static final String BRAND = Build.BRAND.toLowerCase();
 
+    
     private DeviceUtils() {
         throw new UnsupportedOperationException("u can't instantiate me...");
     }
@@ -80,7 +81,7 @@ public class DeviceUtils {
         return (context.getResources().getConfiguration().screenLayout & Configuration.SCREENLAYOUT_SIZE_MASK) >=
                 Configuration.SCREENLAYOUT_SIZE_LARGE;
     }
-    
+
     /**
      * 判断是否为平板设备
      */
