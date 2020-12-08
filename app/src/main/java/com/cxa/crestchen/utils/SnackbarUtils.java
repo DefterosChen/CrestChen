@@ -54,7 +54,7 @@ public class SnackbarUtils {
 
     private static final String TAG = "SnackbarUtils";
 
-    
+
     //设置Snackbar背景颜色
     private static int sColorInfo = 0xFF299EE3;
     private static int sColorConfirm = 0xFF4CB04E;
