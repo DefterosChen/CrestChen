@@ -58,8 +58,7 @@ public class SnackbarUtils {
     private static int sColorConfirm = 0xFF4CB04E;
     private static int sColorWarning = 0xFFFEC005;
     private static int sColorDanger = 0xFFF44336;
-
-
+    
     //工具类当前持有的Snackbar实例
     private static WeakReference<Snackbar> mSnackbarWeakRef;
 
