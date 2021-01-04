@@ -7,8 +7,8 @@ import android.view.Window;
 import androidx.core.graphics.ColorUtils;
 
 import com.cxa.crestchen.R;
+import com.cxa.crestchen.utils.StatusBarUtils;
 import com.xuexiang.xpage.base.XPageActivity;
-import com.xuexiang.xui.utils.StatusBarUtils;
 
 
 /**
@@ -25,9 +25,9 @@ public class MyBaseActivity extends XPageActivity {
         //设置沉浸式状态栏
         StatusBarUtils.translucent(this);
         //当FitsSystemWindows设置 true 时，会在屏幕最上方预留出状态栏高度的 padding
-        StatusBarUtil.setRootViewFitsSystemWindows(this, true);
+        StatusBarUtils.setRootViewFitsSystemWindows(this, true);
         //设置状态栏透明
-        StatusBarUtil.setTranslucentStatus(this);
+        StatusBarUtils.setTranslucentStatus(this);
 //        StatusBarUtil.setStatusBarColor(MyBaseActivity.this, R.color.icon_blue_lightsun);
 
 
