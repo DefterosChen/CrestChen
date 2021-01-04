@@ -6,6 +6,7 @@ import android.view.Window;
 
 import androidx.core.graphics.ColorUtils;
 
+import com.cxa.crestchen.R;
 import com.xuexiang.xpage.base.XPageActivity;
 import com.xuexiang.xui.utils.StatusBarUtils;
 
