@@ -8,7 +8,6 @@ import androidx.core.graphics.ColorUtils;
 
 import com.cxa.crestchen.R;
 import com.cxa.crestchen.utils.StatusBarUtils;
-import com.xuexiang.xpage.base.XPageActivity;
 
 
 /**
