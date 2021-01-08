@@ -29,7 +29,6 @@ public class MyBaseActivity extends XPageActivity {
 //        StatusBarUtil.setStatusBarColor(MyBaseActivity.this, R.color.icon_blue_lightsun);
 
 
-
         //状态栏着色
         Window window = getWindow();
         int color = getResources().getColor(R.color.color_disign_blue_light);
