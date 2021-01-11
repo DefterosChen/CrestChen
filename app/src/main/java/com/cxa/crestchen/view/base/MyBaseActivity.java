@@ -17,7 +17,7 @@ import com.cxa.crestchen.utils.StatusBarUtils;
  */
 public class MyBaseActivity extends XPageActivity {
 
-    
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
