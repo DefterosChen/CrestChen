@@ -19,7 +19,7 @@ import com.xuexiang.xpage.utils.TitleBar;
 public abstract class MyBaseFragment extends XPageFragment {
 
     private boolean mIsDataInited;
-    
+
     private static final Handler HANDLER = new Handler(Looper.getMainLooper());
     public final Object mHandlerToken = hashCode();
 //    @BindView(R.id.iv_back)
