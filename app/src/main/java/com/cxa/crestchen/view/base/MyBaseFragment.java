@@ -46,7 +46,6 @@ public abstract class MyBaseFragment extends XPageFragment {
 
     @Override
     protected void initViews() {
-
     }
 
     @Override
