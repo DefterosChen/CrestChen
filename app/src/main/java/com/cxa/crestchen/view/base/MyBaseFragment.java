@@ -28,7 +28,7 @@ public abstract class MyBaseFragment extends XPageFragment {
     public MyBaseFragment() {
         // Required empty public constructor
     }
- 
+
     /**
      * 初始化页面, 可以重写该方法，以增强灵活性
      */
