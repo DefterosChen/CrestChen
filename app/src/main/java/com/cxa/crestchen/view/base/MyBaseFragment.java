@@ -50,7 +50,6 @@ public abstract class MyBaseFragment extends XPageFragment {
 
     @Override
     protected void initListeners() {
-
     }
 
     protected void initData() {
