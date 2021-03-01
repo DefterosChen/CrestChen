@@ -32,6 +32,7 @@ public abstract class MyBaseFragment extends XPageFragment {
      * 初始化页面, 可以重写该方法，以增强灵活性
      */
 
+    
     protected void initPage() {
         initTitleBar();
         initViews();
